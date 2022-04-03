@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MD3-TH-DongGoi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MD3_TH_DongGoi_jar</output-path>
+    <root id="archive" name="MD3-TH-DongGoi.jar">
+      <element id="module-output" name="MD3-TH-DongGoi" />
+    </root>
+  </artifact>
+</component>
